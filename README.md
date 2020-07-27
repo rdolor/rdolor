@@ -1,6 +1,16 @@
-### Hi there 👋
+<h2> <img src="https://media.giphy.com/media/MEFVcuRIoVETUMYZEe/giphy.gif" width="50"> I'm Ros! </h2>
+
+<p><em>Data Scientist at <a href="https://www.ghtinc.com">Groundhog Technologies</a><img src="https://media.giphy.com/media/QXhSr6NDR4F5t69GL8/giphy.gif" width="30">
+</em></p>
+
+[![Linkedin: rjdolor](https://img.shields.io/badge/-rjdolor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rjdolor/)](https://www.linkedin.com/in/rjdolor/)<!--[![GitHub: rdolor](https://img.shields.io/badge/-rdolor-gray?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/rdolor)](https://github.com/rdolor)-->
+[![GitHub rdolor](https://img.shields.io/github/followers/rdolor?label=follow&style=social)](https://github.com/rdolor)
+[![Kaggle: rosdolor](https://img.shields.io/badge/-rosdolor-orange?style=flat-square&logo=Kaggle&logoColor=blue&link=https://www.kaggle.com/rosdolor&style=social)](https://www.kaggle.com/rosdolor)
 
 <!--
+
+### Hi there 👋
+
 **rdolor/rdolor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

@@ -10,7 +10,7 @@
 
 <p>
   <em>
-    I enjoy doing research <img src="https://media.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif" width="30"> and programming <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="30">. I know I still have so much to improve on both... so I try to stay vigilant <img src="https://media.giphy.com/media/3ohhwfzFXF9DGuSYVi/giphy.gif" width="30"> on what to learn next. I just started being more active in GitHub last year, I hope to be able to spend more time contributing here. <img src="https://media.giphy.com/media/VFrEmXsEmaT8zyR8Vy/giphy.gif" width="30">
+    I enjoy doing research <img src="https://media.giphy.com/media/VDdh2wgmzsXAc7FCd7/giphy.gif" width="30"> and programming <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="30">. I know I still have so much to improve on both... so I try to stay vigilant <img src="https://media.giphy.com/media/3ohhwfzFXF9DGuSYVi/giphy.gif" width="30"> on what to learn next. I just started being more active on GitHub last year, I hope to be able to spend more time contributing here. <img src="https://media.giphy.com/media/VFrEmXsEmaT8zyR8Vy/giphy.gif" width="30">
   </em>  
 </p>
 <br>
@@ -20,7 +20,7 @@
 
 <p>
   <em>
-    My strength is analytics and finding insights from data. <img src="https://media.giphy.com/media/kybx0kEY6gwOuYsTxq/giphy.gif" width="30"> I use programming as an aid to solve data-related problems and tasks. Below are some of the tools I have been using and learning for awhile. Python and TensorFlow are the most used, Scala and PyTorch are being studied recently, and the rest are used before but not so much currently. <img src="https://media.giphy.com/media/fGXM0IgrGiicbPBqRD/giphy.gif" width="30">
+    My strength is finding insights from data. <img src="https://media.giphy.com/media/kybx0kEY6gwOuYsTxq/giphy.gif" width="30"> I use programming as an aid to solve data-related problems. Below are some of the tools I have been using and learning for awhile. Python and TensorFlow are the most used, Scala and PyTorch are being studied recently, and the rest are used before but not so much currently. <img src="https://media.giphy.com/media/fGXM0IgrGiicbPBqRD/giphy.gif" width="30">
   </em>  
 </p>
 

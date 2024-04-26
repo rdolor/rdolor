@@ -1,4 +1,4 @@
-<p><em>Data Scientist at <a href="https://bubbleye.com">Bubbleye Technology Co, Ltd</a><img src="https://media.giphy.com/media/QXhSr6NDR4F5t69GL8/giphy.gif" width="30">
+<p><em>Researcher at <a href="https://www.imb.sinica.edu.tw/en/">Academia Sinica</a><img src="https://media.giphy.com/media/QXhSr6NDR4F5t69GL8/giphy.gif" width="30">
 </em></p>
 
 
@@ -18,15 +18,22 @@
 <br> -->
 
 <ul>
-  <li>Researcher</li>
-  <li>Analyst</li>
-  <li>Programmer</li>
-  <li>Data crazy</li>
-  <li>Currently using: <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code>
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png"></code></li>
-  <li>Previously used: <code><img height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_168671.png"></code>
-<code><img height="20" src="https://www.r-project.org/logo/Rlogo.png"></code><code><img height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sas_logo_icon_170761.png"></code><code><img height="20" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"></code></li>
-  <li>Currently learning: <code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_scala_icon_130180.png"></code><code><img height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"></code></li>
+  <li>Analytics</li>
+  <li>Research</li>
+  <li>Neuroscience</li>
+  
+  <li>Currently using: 
+  <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code>
+  <code><img height="20" src="https://www.r-project.org/logo/Rlogo.png"></code>
+  </li>
+  
+  <li>Previously used: 
+  <code><img height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_168671.png"></code>
+  <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png"></code>
+  <code><img height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sas_logo_icon_170761.png"></code>
+  <code><img height="20" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"></code>
+  </li>
+  <!-- <li>Currently learning: <code><img height="20" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_scala_icon_130180.png"></code><code><img height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png"></code></li> -->
 </ul>
 
 <!--

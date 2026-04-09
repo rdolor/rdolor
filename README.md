@@ -1,4 +1,4 @@
-<p><em>Researcher at <a href="https://www.imb.sinica.edu.tw/en/">Academia Sinica</a><img src="https://media.giphy.com/media/QXhSr6NDR4F5t69GL8/giphy.gif" width="30">
+<p><em>Neuroscience student at <a href="https://npas.programs.sinica.edu.tw/ins/">TIGP INS</a> and researcher at the <a href="https://neuroecon.lab.nycu.edu.tw">Wu Lab</a>.<img src="https://media.giphy.com/media/QXhSr6NDR4F5t69GL8/giphy.gif" width="30">
 </em></p>
 
 
@@ -24,10 +24,11 @@
   
   <li>Currently using: 
   <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code>
-  <code><img height="20" src="https://www.r-project.org/logo/Rlogo.png"></code>
+   <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
   </li>
   
   <li>Previously used: 
+  <code><img height="20" src="https://www.r-project.org/logo/Rlogo.png"></code>
   <code><img height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_168671.png"></code>
   <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png"></code>
   <code><img height="20" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sas_logo_icon_170761.png"></code>

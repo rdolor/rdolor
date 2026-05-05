@@ -1,4 +1,4 @@
-<p><em>Neuroscience student at <a href="https://npas.programs.sinica.edu.tw/ins/">TIGP INS</a> and researcher at the <a href="https://neuroecon.lab.nycu.edu.tw">Wu Lab</a>.<img src="https://media.giphy.com/media/QXhSr6NDR4F5t69GL8/giphy.gif" width="30">
+<p><em>Neuroscience student at <a href="https://npas.programs.sinica.edu.tw/ins/">TIGP INS</a> and researcher at <a href="https://neuroecon.lab.nycu.edu.tw">Prof. Shih-Wei Wu Lab</a>.<img src="https://media.giphy.com/media/QXhSr6NDR4F5t69GL8/giphy.gif" width="30">
 </em></p>
 
 
